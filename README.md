@@ -1,2 +1,2 @@
 # fit-spielplatz
-Fit spassmachen spielplatz
+Fit wandboard spassmachen spielplatz
